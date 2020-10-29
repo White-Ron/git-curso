@@ -1,0 +1,11 @@
+git init (new project whit git or open project whit git)
+git add <file> (pass file of working directory to staging area)
+git status (see the status of files /* localitation: working directory, stanging area, repository */)
+git commit; git commit -m; git commit -a -m (pass file of staging area to repository /* create firft snapshot */)
+git push (upload to remote repository)
+git pull (upload changes mades by othes developers)
+git clone (Donwload by server copy of repository)
+
+git merge
+git branch; git branch -b
+git checkout; git checkout -b
